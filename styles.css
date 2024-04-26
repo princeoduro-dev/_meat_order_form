@@ -1,0 +1,28 @@
+body{background-image: url(front-view-fresh-meat-slices-raw-meat-dark-background-barbecue-kitchen-meal-food-cow-food-dish-salad-animal.jpg); 
+background-size: cover;
+background-repeat: no-repeat;}
+form{ background-color: rgba(228, 93, 3, 0.918);
+margin-left: 220px;
+margin-right: 220px;
+padding-left: 100px;
+padding-right: 100px;
+padding-top: 40px;
+padding-bottom: 40px;
+border-radius: 15px;}
+img{margin-left: 285px;}
+h2{margin-left: 290px; font-family:Arial, Helvetica, sans-serif;
+    color: white;}
+    hr{height: 2px;
+    background-color: white;
+margin-bottom: 20px;}
+button{font-family: Arial, Helvetica, sans-serif;
+    background-color: green;
+    color: white;
+margin-top: 20px;
+margin-left: 285px;
+border-radius: 10px;}
+h3{font-family: Arial, Helvetica, sans-serif;color: whitesmoke;}
+label{font-family: Arial, Helvetica, sans-serif;font-size: medium;}
+input{background-color:transparent;
+border-radius: 5px;
+border-color: aliceblue;}
