@@ -25,7 +25,7 @@
 [MIT](https://choosealicense.com/licenses/mit/)
 
 This project is licensed under the MIT License
-## Screenshots
 
-![App Screenshot]()![shot](https://github.com/princeoduro-dev/_meat_order_form/assets/150609797/18ec0dcf-a469-4269-91ea-83ded963fa63)
+## Screenshots
+[shot](https://github.com/princeoduro-dev/_meat_order_form/assets/150609797/18ec0dcf-a469-4269-91ea-83ded963fa63)
 
